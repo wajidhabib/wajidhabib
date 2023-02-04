@@ -4,8 +4,8 @@
 
 Wajid Ali "wajidhabib" is a .NET software craftsman, microsoft stack developer, and a Project Manager. Since 2005, he has been developing wide variety of web and software applications.
 
-- 🔭 I’m currently working on .Net 5, Blazor, Clean Architeture, EF
-- 🌱 I’m currently learning .Net 6, Python, Azure Cloud 
+- 🔭 I’m currently working on .Net 6, Blazor, Clean Architeture, EF, python
+- 🌱 I’m currently learning .Net 7, NLP, Machine Learning, Data Science, Azure Cloud 
 - 👯 In free time, I read technical articals
 - ⚡ I am twitter addicted....
 - 📫 How to reach me: [![Linkedin Badge](
